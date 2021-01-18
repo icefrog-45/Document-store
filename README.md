@@ -1,2 +1,2 @@
 # Document-store
-Used MongoDB building and operating on a document store. Using the program users can specify queries written in a query language grammar. These queries are processed by the program and the associated data is retrieved and presented to the user.
+Used MongoDB to build and operate on a document store. The project was to write programs that store data in MongoDB and provide basic functions for searches and updates.
